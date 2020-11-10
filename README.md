@@ -8,4 +8,4 @@
 
 * cuda performance analyze
   * [cuda warps and occupancy](https://on-demand.gputechconf.com/gtc-express/2011/presentations/cuda_webinars_WarpsAndOccupancy.pdf)
-  * [GPU Optimization Fundamentals](https://www.olcf.ornl.gov/wp-content/uploads/2013/02/GPU_Opt_Fund-CW1.pdf）
+  * [GPU Optimization Fundamentals](https://www.olcf.ornl.gov/wp-content/uploads/2013/02/GPU_Opt_Fund-CW1.pdf)
