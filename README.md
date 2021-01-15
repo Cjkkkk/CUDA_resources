@@ -15,4 +15,4 @@
   * [gpu pipeline short introduction](https://zhuanlan.zhihu.com/p/109574885)
 
 * other
- * [cuda launch_bound](https://stackoverflow.com/questions/44704506/limiting-register-usage-in-cuda-launch-bounds-vs-maxrregcount)
+  * [cuda launch_bound](https://stackoverflow.com/questions/44704506/limiting-register-usage-in-cuda-launch-bounds-vs-maxrregcount)
