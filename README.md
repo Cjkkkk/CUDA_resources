@@ -13,6 +13,7 @@
 * cuda pipeline
   * [cuda core pipeline](https://stackoverflow.com/questions/16692572/cuda-core-pipeline)
   * [gpu pipeline short introduction](https://zhuanlan.zhihu.com/p/109574885)
-
+* GPU simulator
+  * [trace-driven simulator](https://stackoverflow.com/questions/64207724/how-does-trace-inputs-provided-to-trace-driven-simulators-look-like)
 * other
   * [cuda launch_bound](https://stackoverflow.com/questions/44704506/limiting-register-usage-in-cuda-launch-bounds-vs-maxrregcount)
