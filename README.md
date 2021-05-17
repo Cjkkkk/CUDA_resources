@@ -15,5 +15,8 @@
   * [gpu pipeline short introduction](https://zhuanlan.zhihu.com/p/109574885)
 * GPU simulator
   * [trace-driven simulator](https://stackoverflow.com/questions/64207724/how-does-trace-inputs-provided-to-trace-driven-simulators-look-like)
+
+* GPU arch
+  * [arch list and compile flag](https://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/)
 * other
   * [cuda launch_bound](https://stackoverflow.com/questions/44704506/limiting-register-usage-in-cuda-launch-bounds-vs-maxrregcount)
