@@ -18,5 +18,8 @@
 
 * GPU arch
   * [arch list and compile flag](https://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/)
+* tensor cores
+  * [tensor cores](https://developer.nvidia.com/blog/programming-tensor-cores-cuda-9/) 
+
 * other
   * [cuda launch_bound](https://stackoverflow.com/questions/44704506/limiting-register-usage-in-cuda-launch-bounds-vs-maxrregcount)
